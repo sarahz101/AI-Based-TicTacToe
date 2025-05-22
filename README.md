@@ -1,4 +1,5 @@
 Here's a short explanation about my project and video on the comparison of the performance and behavior of the Minimax and Alpha-Beta Pruning algorithms based on the simulation results of the AI based tic-tac-toe game:
+
 1.Minimax Algorithm explores all possible game states to make optimal decisions, but it is slower because it checks every branch without skipping any.
 
 2.Alpha-Beta Pruning significantly improves performance by eliminating branches that cannot affect the final decision, reducing unnecessary computation.
